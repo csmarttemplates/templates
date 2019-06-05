@@ -5,6 +5,6 @@ You can add existing templates from the web or create your own.
 
 This repository contains some templates for popular services which you may want to access through CSmart.
 
-##Popular Templates
+## Popular Templates
 
-[Craigslist RSS Search](csmartpro.template://www.investorvista.com/csmart-app/pages/popular.csmart.json)
+[Craigslist RSS Search](csmart://www.investorvista.com/csmart-app/pages/popular.csmart.json)
